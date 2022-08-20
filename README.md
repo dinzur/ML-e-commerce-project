@@ -6,6 +6,9 @@ Based on given data with more than 20 features that describes users behavior in 
 
 The pipeline included data exploration, preprocessing, feature selection, modeling and evaluation.
 
-The chosen model Random Forest, which achieved AUC score of .
+The chosen model Random Forest, which achieved AUC score of 92.3%.
+
+In the project we made a huge mistake - we normalized the test set. That's the reason why we got the maximum grade on this project.
+From now on, this mistake won't be repeated :)
 
 The project was written in Jupyter Notebook in Python.
