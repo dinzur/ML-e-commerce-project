@@ -9,9 +9,7 @@ The pipeline included data exploration, preprocessing, feature selection, modeli
 The chosen model is Random Forest, which achieved an AUC score of 92.3%.
 
 During the project, we made a horrible mistake - we normalized the test set values.
-
 That's the reason why we didn't get the bonus for the highest AUC score.
-
 We fixed that mistake and from now on it won't happen again. As the saying goes - "A person who makes few mistakes makes little progress".
 
 The project was written in Jupyter Notebook in Python.
